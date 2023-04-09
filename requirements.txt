@@ -1,0 +1,4 @@
+selenium
+Pillow
+requests
+beautifulsoup4
